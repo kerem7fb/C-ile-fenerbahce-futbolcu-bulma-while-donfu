@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Futbolcu Bulma while\Futbolcu Bulma while\bin\Debug\Futbolcu Bulma while.exe.config
+C:\Users\user\Desktop\10-M\Futbolcu Bulma while\Futbolcu Bulma while\bin\Debug\Futbolcu Bulma while.exe
+C:\Users\user\Desktop\10-M\Futbolcu Bulma while\Futbolcu Bulma while\bin\Debug\Futbolcu Bulma while.pdb
+C:\Users\user\Desktop\10-M\Futbolcu Bulma while\Futbolcu Bulma while\obj\Debug\Futbolcu Bulma while.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Futbolcu Bulma while\Futbolcu Bulma while\obj\Debug\Futbolcu_Bulma_while.Form1.resources
+C:\Users\user\Desktop\10-M\Futbolcu Bulma while\Futbolcu Bulma while\obj\Debug\Futbolcu_Bulma_while.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Futbolcu Bulma while\Futbolcu Bulma while\obj\Debug\Futbolcu Bulma while.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Futbolcu Bulma while\Futbolcu Bulma while\obj\Debug\Futbolcu Bulma while.exe
+C:\Users\user\Desktop\10-M\Futbolcu Bulma while\Futbolcu Bulma while\obj\Debug\Futbolcu Bulma while.pdb
